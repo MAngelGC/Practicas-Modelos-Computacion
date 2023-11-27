@@ -1,0 +1,18 @@
+[submodule "ELM-MatLab"]
+	path = ELM-MatLab
+	url = https://github.com/MAngelGC/ELM-MatLab.git
+[submodule "Perceptron-Multicapa-MatLab"]
+	path = Perceptron-Multicapa-MatLab
+	url = https://github.com/MAngelGC/Perceptron-Multicapa-MatLab.git
+[submodule "Perceptron-Simple-ADALINE"]
+	path = Perceptron-Simple-ADALINE
+	url = https://github.com/MAngelGC/Perceptron-Simple-ADALINE.git
+[submodule "Perceptron-Simple-MatLab"]
+	path = Perceptron-Simple-MatLab
+	url = https://github.com/MAngelGC/Perceptron-Simple-MatLab.git
+[submodule "NTorres-Hopfield-MatLab"]
+	path = NTorres-Hopfield-MatLab
+	url = https://github.com/MAngelGC/NTorres-Hopfield-MatLab.git
+[submodule "Memorias-Asociativas-Dinamicas"]
+	path = Memorias-Asociativas-Dinamicas
+	url = https://github.com/MAngelGC/Memorias-Asociativas-Dinamicas.git
