@@ -22,3 +22,7 @@
 	path = Memorias-Asociativas-Dinamicas
 	url = https://github.com/MAngelGC/Memorias-Asociativas-Dinamicas.git
 	branch = main
+[submodule "Memorias-Asociativas-Bidireccionales"]
+	path = Memorias-Asociativas-Bidireccionales
+	url = git@github.com:MAngelGC/Memorias-Asociativas-Bidireccionales.git
+	branch = main
