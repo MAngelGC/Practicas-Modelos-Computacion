@@ -26,3 +26,7 @@
 	path = Memorias-Asociativas-Bidireccionales
 	url = git@github.com:MAngelGC/Memorias-Asociativas-Bidireccionales.git
 	branch = main
+[submodule "Redes-Kohonen"]
+	path = Redes-Kohonen
+	url = git@github.com:MAngelGC/Redes-Kohonen.git
+	branch = main
